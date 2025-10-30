@@ -1,0 +1,99 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+.eggs/
+*.egg-info/
+.installed.cfg
+lib/
+lib64/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.coverage.*
+.cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints and outputs
+.ipynb_checkpoints/
+*.ipynb
+
+# PyCharm
+.idea/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Sensitive files
+.env
+*.key
+*.pem
+
+# Compiled python files
+*.pyc
+
+# Temporary files
+*.swp
+*.swo
+
+# Model, weights and large binaries (do NOT commit these to Git; use Git LFS if you need them)
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+model_resnet50.h5
+yolov5s.pt
+handwritten_text_50.h5
+*.tflite
+
+# Large directories and runtime outputs
+runs/
+logs/
+weights/
+word_images/
+model/*.h5
+
+# OS generated files
+Thumbs.db
+
+# Ignore VS Code workspace storage
+.vscode/
+
+# ignore python cache directories in subfolders
+**/__pycache__/
+
+# notebook checkpoints already covered
+
+# local data / sample inputs that should not be published
+data/images/
+
+# add any additional local files here
+
+# End of .gitignore

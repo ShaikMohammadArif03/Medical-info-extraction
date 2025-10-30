@@ -1,0 +1,3 @@
+runs/detect/exp/crops/medicine/input.jpg
+runs/detect/exp/crops/medicine/input2.jpg
+runs/detect/exp/crops/medicine/input3.jpg

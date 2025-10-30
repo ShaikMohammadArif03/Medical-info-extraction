@@ -1,0 +1,18 @@
+medicine_name,chemical_composition,disease_to_be_treated,symptoms_to_be_treated,age_restriction,doses_per_day,side_effect_yes_no,max_days_taken
+Acetaminophen,Acetaminophen,"Pain, Fever","Headache, Body pain, Fever",Adults and children over 6 years,4,Yes,7
+Ibuprofen,Ibuprofen,"Pain, Inflammation","Headache, Muscle pain, Arthritis",Adults and children over 6 months,3,Yes,7
+Aspirin,Acetylsalicylic Acid,"Pain, Inflammation","Headache, Arthritis, Heart attack prevention",Not recommended for children under 12,4,Yes,7
+Dextramethophan,Dextramethorphan,Cough,"Cough, Throat irritation",Not recommended for children under 2,4,Yes,7
+Guaifenisin,Guaifenesin,"Cough, Mucus buildup","Chest congestion, Mucus clearance",Adults and children over 12 years,4,Yes,7
+Codeine,Codeine,"Pain, Cough","Pain, Cough suppression","Adults, caution for children",4,Yes,3
+Tylenol,Acetaminophen,"Pain, Fever","Headache, Body pain, Fever",Adults and children over 6 years,4,Yes,7
+Phenylephrine,Phenylephrine,Nasal congestion,"Stuffed nose, Nasal congestion",Adults and children over 12 years,3,Yes,7
+Pseudoephedrine,Pseudoephedrine,Nasal congestion,"Stuffed nose, Sinus congestion",Adults and children over 6 years,3,Yes,7
+Exedrin,"Acetaminophen, Aspirin, Caffeine",Headache,"Headache, Migraine",Adults,3,Yes,7
+Alavert,Loratadine,Allergy,"Sneezing, Itchy eyes, Runny nose",Adults and children over 6 years,1,Yes,10
+Benadryl,Diphenhydramine,"Allergy, Insomnia","Allergy, Sneezing, Itchy eyes, Sleep aid",Adults and children over 6 years,4,Yes,7
+Paracetamol,Paracetamol,"Pain, Fever","Headache, Body pain, Fever",Adults and children over 6 years,4,Yes,7
+Panadol,Paracetamol,"Pain, Fever","Headache, Fever",Adults and children over 6 years,4,Yes,7
+Advil,Ibuprofen,"Pain, Inflammation","Headache, Muscle pain, Arthritis",Adults and children over 6 months,3,Yes,7
+Nystatin,Nystatin,Fungal infections,"Skin fungal infections, Oral thrush",Adults and children over 1 month,3,Yes,7
+Cephalexin,Cephalexin,Bacterial infections,"Infection, Skin infections, Respiratory infections",Adults and children over 1 year,4,Yes,10
